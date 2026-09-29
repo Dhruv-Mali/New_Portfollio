@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhruv-mali.github.io/New_Portfollio/sitemap.xml
