@@ -2,30 +2,45 @@
   "name": "Dhruv Mali | Cloud & Security Engineer Portfolio",
   "short_name": "Dhruv Mali",
   "description": "Portfolio of Dhruv Mali, Cloud & Security Engineer specializing in AWS cloud infrastructure, Linux server administration, DevSecOps CI/CD automation, and endpoint defense.",
+  "id": "https://dhruv-mali.github.io/New_Portfollio/",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#0a0e17",
   "theme_color": "#0a0e17",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": [
+    "portfolio",
+    "technology",
+    "security",
+    "cloud"
+  ],
   "icons": [
     {
       "src": "favicon.svg",
       "sizes": "any",
-      "type": "image/svg+xml"
+      "type": "image/svg+xml",
+      "purpose": "any"
     },
     {
       "src": "favicon.png",
       "sizes": "32x32",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "favicon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "apple-touch-icon.png",
       "sizes": "180x180",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
