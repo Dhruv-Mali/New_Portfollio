@@ -2,7 +2,7 @@
   "name": "Dhruv Mali | Cloud & Security Engineer Portfolio",
   "short_name": "Dhruv Mali",
   "description": "Portfolio of Dhruv Mali, Cloud & Security Engineer specializing in AWS cloud infrastructure, Linux server administration, DevSecOps CI/CD automation, and endpoint defense.",
-  "id": "https://dhruv-mali.github.io/New_Portfollio/",
+  "id": "https://malidhruv.netlify.app/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dhruv-mali.github.io/New_Portfollio/</loc>
+    <loc>https://malidhruv.netlify.app/</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://dhruv-mali.github.io/New_Portfollio/og-image.png</image:loc>
+      <image:loc>https://malidhruv.netlify.app/og-image.png</image:loc>
       <image:title>Dhruv Mali | Cloud &amp; Security Engineer Portfolio</image:title>
       <image:caption>Dhruv Mali - Cloud &amp; Security Engineer specializing in AWS cloud infrastructure, DevSecOps automation, and infrastructure defense.</image:caption>
     </image:image>

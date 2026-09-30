@@ -1,5 +1,5 @@
 # robots.txt for Dhruv Mali Portfolio
-# https://dhruv-mali.github.io/New_Portfollio/
+# https://malidhruv.netlify.app/
 
 User-agent: *
 Allow: /
@@ -43,4 +43,4 @@ User-agent: WhatsApp
 Allow: /
 
 # Sitemap Location
-Sitemap: https://dhruv-mali.github.io/New_Portfollio/sitemap.xml
+Sitemap: https://malidhruv.netlify.app/sitemap.xml
